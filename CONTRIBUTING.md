@@ -24,3 +24,4 @@ Laravel follows the [PSR-0](https://github.com/php-fig/fig-standards/blob/master
 - Class opening `{` should be on the same line as the class name.
 - Function and control structure opening `{` should be on a separate line.
 - Interface and Trait names are suffixed with `Interface` (`FooInterface`) and `Trait` (`FooTrait`) respectively.
+addition
